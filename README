@@ -1,3 +1,11 @@
+----- custom notes -----
+- this copy of st contains the following:
+    - custom colorschemes (naysayer)
+    - url copying and highlighting
+    - clipboard support 
+
+- make sure to have the commitmononerdfont installed, get it from here https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/CommitMono.zip 
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
