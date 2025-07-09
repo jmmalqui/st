@@ -182,7 +182,7 @@ static const ColorScheme schemes[] = {
 };
 
 static const char* const* colorname;
-int                       colorscheme = 0;
+int                       colorscheme = 3;
 
 /*
  * Default colors (colorname index)
